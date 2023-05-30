@@ -2,6 +2,7 @@ import Image from 'next/image'
 import React from 'react'
 
 
+
 const About = () => {
   return (
     <div id='about' className='w-fill md:h-screen p-2 items-center py-16'>
