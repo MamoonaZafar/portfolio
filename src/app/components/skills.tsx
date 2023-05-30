@@ -1,6 +1,7 @@
 import Image from 'next/image'
 import React from 'react'
 
+
 function skills() {
   return (
     <div id='skills' className='w-full lg:h-screen p-2'>
